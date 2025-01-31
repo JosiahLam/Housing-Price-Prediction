@@ -61,7 +61,7 @@ To enhance model accuracy and robustness, the following approaches can be explor
    ```bash
    jupyter notebook
    ```
-4. Open `decision_tree_regression_02.ipynb` and follow the steps for model training and evaluation.  
+4. Open `Model_01.ipynb` and follow the steps for model training and evaluation.  
 
 ## 📌 Conclusion  
 
