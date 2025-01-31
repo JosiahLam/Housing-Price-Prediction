@@ -50,8 +50,8 @@ To enhance model accuracy and robustness, the following approaches can be explor
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/Housing-Price_Regression.git
-   cd Housing-Price_Regression
+   git clone https://github.com/your-username/Housing-Price-Prediction.git
+   cd Housing-Price-Prediction
    ```
 2. Install required dependencies:  
    ```bash
