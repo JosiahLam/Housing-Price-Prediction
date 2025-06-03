@@ -19,10 +19,10 @@ Four regression models were implemented and fine-tuned to improve the **R² (R-s
 
 | Model                        | R² Score  |
 |------------------------------|----------|
-| **Multiple Linear Regression** | 0.6781   |
-| **Decision Tree Regression**  | 0.4815   |
-| **Random Forest Regression**  | 0.6665   |
-| **Support Vector Machine (SVM)** | 0.6482   |
+| **Multiple Linear Regression** | 0.7378 |
+| **Decision Tree Regression**  | 0.3626   |
+| **Random Forest Regression**  | 0.5927   |
+| **Support Vector Machine (SVM)** | 0.6855   |
 
 - By default, an **80:20 train-test split** was used.  
 - The **Multiple Linear Regression model** was also tested with a **70:30 split**, which provided additional insights into performance variations.  
