@@ -61,7 +61,7 @@ To enhance model accuracy and robustness, the following approaches can be explor
    ```bash
    jupyter notebook
    ```
-4. Open `Model_01.ipynb` and follow the steps for model training and evaluation.  
+4. Open `03-model/mult-linear-reg.ipynb` and follow the steps for model training and evaluation.  
 
 ## 📌 Conclusion  
 
